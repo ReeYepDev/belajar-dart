@@ -13,8 +13,3 @@ void main() {
     print("Data tidak cukup");
   }
 }
-
-// Membuat teks asal
-String asal(String nama, String tempat) {
-  return '$nama berasal dari $tempat';
-}
